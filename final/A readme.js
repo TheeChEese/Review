@@ -1,3 +1,5 @@
+//Not entirely sure on how you review codes Mr. Rai, but images won't appear if you are viewing this through VSCode's live server extension
+
 /*Modification #1 Use unique images (can be your own of friends or you can find images online of a characters of a show you like). Also create descriptions of each character.
 
     About this ^^^ I'm assuming we are supposed to make more reviews but with picture and names of our choices
