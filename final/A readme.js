@@ -2,8 +2,7 @@
 
 /*Modification #1 Use unique images (can be your own of friends or you can find images online of a characters of a show you like). Also create descriptions of each character.
 
-    About this ^^^ I'm assuming we are supposed to make more reviews but with picture and names of our choices
-*/
+    About this ^^^ I didn't change the original texts, but I did added additional reviews with unique images and individual description.
 
 //Modification #2 Create a button that goes to the start of the review section
 
